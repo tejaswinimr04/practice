@@ -1,2 +1,2 @@
-str="hello all"
-print(str.count('l'))
+str="hello all!"
+print(str.count('a'))

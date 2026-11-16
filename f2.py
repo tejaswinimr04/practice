@@ -1,2 +1,2 @@
-str="hello all"
+str="hello all!"
 print(str.count('l'))

@@ -1,2 +1,2 @@
-str ='today is monday'
+str ='today is monday!'
 print(str.split())
